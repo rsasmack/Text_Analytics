@@ -688,38 +688,3 @@ def find_duplicate_questions():
 
 if __name__ == '__main__':
     app.run(debug=True)
-
-
-
-
-
-# Route to handle the form submission and find duplicate questions
-# @app.route('/')
-# def home():
-#     return render_template_string(index_html_code)
-#
-# # Route to serve the index.html page
-# @app.route('/find_duplicate_questions', methods=['POST'])
-# def find_duplicate_questions():
-#     # Get user inputs from the form
-#     q1 = request.form['q1']
-#     q2 = request.form['q2']
-#
-#     # Make prediction
-#     result = make_prediction(q1, q2)
-#     return render_template_string(index_html_code, result=result)
-
-
-# # Route to handle the form submission and find duplicate questions
-# @app.route('/find_duplicate_questions', methods=['POST'])
-# def find_duplicate_questions():
-#     # Get user inputs from the form
-#     q1 = request.form['q1']
-#     q2 = request.form['q2']
-#
-#     # Your code for generating the query point, making the prediction, and obtaining the result
-#     query = helper.query_point_creator(q1, q2)  # Generate query point
-#     result = model.predict(query)[0]  # Make prediction
-#
-#     return render_template_string(index_html_code, result=result)
-#
