@@ -220,8 +220,8 @@ statsmodels==0.14.0
 streamlit==1.25.0
 sympy==1.11.1
 tenacity==8.2.2
-tensorboard==2.12.1
-tensorboard-data-server==0.7.0
+tensorboard==2.13.0
+tensorboard-data-server==0.7.1
 tensorboard-plugin-wit==1.8.1
 tensorflow==2.13.0
 tensorflow-estimator==2.13.0
