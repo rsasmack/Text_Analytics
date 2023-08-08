@@ -2,9 +2,6 @@
   <img src="https://github.com/rsasmack/Text_Analytics/blob/main/logo/duplicatequestionpairs.png" alt="Duplicate Question Pairs Detection" width="50" />
   Duplicate Question Pairs Detection
 </h1>
-<p align="center">
-  <img src="https://github.com/rsasmack/Text_Analytics/blob/main/logo/webpic.png" alt="Duplicate Question Pairs" />
-</p>
 
 ![Duplicate Question Pairs](https://github.com/rsasmack/Text_Analytics/blob/main/logo/webpic.png)
 
