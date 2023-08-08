@@ -2,7 +2,8 @@
   <img src="https://github.com/rsasmack/Text_Analytics/blob/main/logo/duplicatequestionpairs.png" alt="Duplicate Question Pairs Detection" width="50" />
   Duplicate Question Pairs Detection
 </h1>
-![Duplicate Question Pairs] (https://github.com/rsasmack/Text_Analytics/blob/main/logo/web_pic.png)
+![Duplicate Question Pairs](https://github.com/rsasmack/Text_Analytics/blob/main/logo/web_pic.png)
+
 
 This project is an end-to-end web-based work product primarily designed to determine whether two given problems are duplicated. The output will be displayed regardless of whether the given problem set is repeated or not.
 ## Motivation
