@@ -1,5 +1,8 @@
 # Duplicate_Questions_Detection
-![Duplicate Question Pairs](https://github.com/rsasmack/Text_Analytics/blob/main/logo/duplicatequestionpairs.png)
+<h1 align="center">
+  <img src="https://github.com/rsasmack/Text_Analytics/blob/main/logo/duplicatequestionpairs.png" alt="Duplicate Question Pairs" width="50" />
+  Duplicate_Questions_Detection
+</h1>
 This project is an end-to-end web-based work product primarily designed to determine whether two given problems are duplicated. The output will be displayed regardless of whether the given problem set is repeated or not.
 ## Motivation
 Online platforms like Quora, Yahoo, Stack Overflow and Grapple with a significant issue i.e.,  questions with identical intents spread across separate pages. For example, consider these queries: "Most populous US state?" and "Which state has the most people in the United States?" Such duplication hampers efficient knowledge-sharing.
